@@ -82,7 +82,7 @@ import { get } from 'lodash'
 get(this.person, 'name')
 ```
 
-They will be transformed roughly to, which is same as the [Import specific methods inside of curly brackets](#Import specific methods inside of curly brackets).
+They will be transformed roughly to, which is same as the [Import specific methods inside of curly brackets](#import-specific-methods-inside-of-curly-brackets).
 
 ```js
 import _get from 'lodash/get'
